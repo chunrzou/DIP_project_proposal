@@ -6,9 +6,9 @@ Covid-19 broke out in 2020 in US. The number of cases increased everyday varied 
 
 Data description
 =================================
-Education.csv                   -- Education level in each county<br/>
-PopulationEstimates.csv         -- Population estimated in in each county<br/>
-PovertyEstimates.csv            -- Poverty rate in in each county<br/>
-StateCode.csv                   -- State code for each county<br/>
-Unemployment.csv                -- Unemployment rate in each county<br/>
-us-counties.csv                 -- Covid-19 daily cases in US<br/>
+Education.csv                   -- Education level in each county (refer to https://www.ers.usda.gov/data-products/county-level-data-sets/)<br/>
+PopulationEstimates.csv         -- Population estimated in in each county (refer to https://www.ers.usda.gov/data-products/county-level-data-sets/)<br/>
+PovertyEstimates.csv            -- Poverty rate in in each county (refer to https://www.ers.usda.gov/data-products/county-level-data-sets/)<br/>
+Unemployment.csv                -- Unemployment rate in each county (refer to https://www.ers.usda.gov/data-products/county-level-data-sets/)<br/>
+us-counties.csv                 -- Covid-19 daily cases in US (refer to https://github.com/nytimes/covid-19-data)<br/>
+StateCode.csv                   -- State code for each county (refer to https://worldpopulationreview.com/states/state-abbreviations/)<br/>
